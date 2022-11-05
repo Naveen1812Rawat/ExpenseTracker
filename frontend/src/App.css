@@ -1,0 +1,273 @@
+/* MongoDB Password: A5TcKLnNUngaJ4eL */
+
+body{
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:url("./images/Login-background.jpg");
+  background-size: cover;
+  background-position: center;
+  backdrop-filter: blur(20px);
+}
+
+form a{
+  padding: 10px;
+}
+form a i{
+  font-size: 23px;
+  margin: 20px 5px;
+}
+
+.fa-google{
+  color: rgb(156, 25, 25);
+}
+
+.fa-google:hover{
+  color: rgb(61, 33, 33);;
+}
+.fa-facebook{
+  font-size: 26px;
+  color: blue;
+}
+.fa-facebook:hover{
+  color: rgb(30, 30, 73);
+}
+
+.Dashboard-bg{
+  padding: 0px; 
+}
+
+.display{
+  margin-top: 0px;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+
+.data-input{
+  padding: 10px;
+}
+
+.data-input input{
+  margin: 5px;
+  padding: 5px;
+  font-family: cursive;
+}
+
+.data-input .select-wrapper{
+  border-radius: 0px;
+}
+
+.data-input span select{
+  margin: 15px;
+  padding: 5px;
+  appearance: none;
+  font-family: cursive;
+}
+
+.header-comp{
+  margin-top: 0%;
+  width: 100%;
+  display: flex;
+}
+
+.Brand{
+  left: 0;
+  padding: 20px;
+}
+
+.Logo{
+  width: 50px;
+  color: green;
+  background-color: none;
+}
+
+.user-data{
+  margin-left: 48%;
+  margin-top: 5%;
+  display: flex;
+}
+
+.greet{
+  font-size: 22px;
+  font-weight: 500;
+  font-family: cursive; 
+  color: #fff;
+}
+
+.username{
+  padding: 0px 0px 0px 10px;
+  font-size: 22px;
+  font-weight: 500;
+  font-family: cursive;
+  color: #fff; 
+}
+
+.Avatar{
+  margin-top: -20%;
+  margin-left: 40%;
+  border: 2px solid rgb(255, 175, 3);
+  border-radius: 50%;
+  color: rgb(255, 111, 0);
+  font-size: 25px;
+  padding: 10px;
+}
+
+.Avatar:hover{
+  border-color:  rgb(185, 144, 53);
+  color: rgb(234, 225, 43);
+}
+
+.registration{
+  background-color: rgb(49, 69, 85);
+  border: 2px solid #fff;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.heading{
+  text-align: center;
+  color: #fff;
+  font-family: cursive;
+}
+
+.userData{
+  font-size: medium;
+  font-weight: 400;
+  font-family: cursive;
+  color: #fff;
+  justify-content: center;
+}
+
+.userData label{
+  margin-top: 15px;
+}
+
+.userData input{
+  width: 100%;
+  display: block;
+  border: 0px;
+  border-radius: 2px;
+  color: #000;
+}
+
+.userData button{
+  margin-top: 20px;
+  padding: 5px 150px;
+  font-weight: 600;
+  border-radius: 2px;
+  border: 0px;
+  color: rgb(17, 16, 16);
+  background-color: rgb(126, 211, 126);
+}
+
+.userData button:hover{
+  background-color: red;
+  color: #000;
+}
+
+.box-wrapper{
+  margin: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.fields{
+  display: flex;
+}
+
+.category{
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+  margin-bottom: 0px;
+  font-size: 12px;
+  font-family: cursive;
+  font-weight: 600;
+  width: 70px;
+  height: 32px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.expense-name{
+  text-align: center;
+  font-family: cursive;
+  font-size: 20px;
+  display: flex;
+}
+
+.name{
+  margin-left: 10%;
+}
+
+.arrow{
+  margin-left: 5%;
+}
+
+.amount{
+  margin-left: 5%;
+}
+
+.remove-btn{
+  margin-left: 30%;
+  border-radius: 5px;
+  background-color: rgb(138, 202, 138);
+}
+
+.remove-btn:hover{
+  background-color: greenyellow;
+}
+
+.type{
+  text-align: center;
+  font-size: 12px;
+  font-family: cursive;
+  font-weight: 600;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 70px;
+  padding: 5px;
+  height: 32px;
+  margin-left: 10px;
+}
+
+.date{
+  display: flex;
+  text-align: center;
+  font-size: 12px;
+  font-family: cursive;
+  font-weight: 600;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 120px;
+  padding: 5px;
+  height: 32px;
+  margin-left: 10px;
+}
+
+.history-heading{
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  font-family: cursive;
+}
+
+.add-trsactn{
+  display: block;
+  text-align: center;
+  margin-left: 40%;
+  border-radius: 5px;
+  border: 1px solid #000;
+  background-color: green;
+  font-size: 15px;
+  font-family: cursive;
+  color: #fff;
+  font-weight: 600;
+  padding: 5px 15px;
+}
+
+.add-trsactn:hover{
+  background-color: rgb(61, 81, 61);
+}
