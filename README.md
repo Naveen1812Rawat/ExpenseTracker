@@ -1,4 +1,5 @@
 # ExpenseTracker
-![Screenshot (6)](https://user-images.githubusercontent.com/71086010/200137313-27e3eb40-96c8-4670-a7b4-8c66306e6550.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/71086010/200137315-cabd992e-551a-42aa-b4b3-e6626b627039.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/71086010/200137318-9511c867-4e66-461a-9058-75e95151c8fc.png)
+It's a user authenticated web application where users can create there account and store there database for future use. It uses MongoDB Atlas cloud for storing the data of the user.
+![Screenshot (6)](https://user-images.githubusercontent.com/71086010/200137401-78de9005-5233-47fe-98a6-dc4250fb80d6.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/71086010/200137406-4e4da9f6-8afc-46ab-971f-b704130c84a1.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/71086010/200137408-253825f0-d869-4143-aea5-bce01dbc6288.png)
